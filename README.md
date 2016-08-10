@@ -1,3 +1,3 @@
 # XBanner
 
-![截屏](http://img.blog.csdn.net/20160810160638052)
+![截屏](http://i1.piimg.com/567571/732d8d3b99995115.png)
