@@ -1,6 +1,6 @@
 # XBanner
 使用ViewPager实现的广告栏（源码见XBanner module），简单使用见（app module）.
-特点：\n
+特点：
 1、无限自动循环滚动
 2、可以从网络或本地加载图片 （使用了图片库Glide）
 3、可以响应图片点击事件
