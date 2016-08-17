@@ -7,6 +7,6 @@
 ![](https://github.com/DoingLee/XBanner/blob/master/local.gif)（从本地加载图片） <br>
 <br>
 ![](https://github.com/DoingLee/XBanner/blob/master/network.gif)（从网络加载图片，随便找的图片，所以像素可能不大对） <br>
-
-
+<br>
+参考：https://github.com/331637495/BannerDemo
 
